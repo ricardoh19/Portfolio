@@ -1,0 +1,14 @@
+#navbar a{
+    padding: 0 40px;
+    font-weight: bold;
+
+}
+
+#navbar a:hover{
+    text-decoration: underline;
+}
+
+#item:hover{
+    font-size: larger;
+    color: black;
+}
