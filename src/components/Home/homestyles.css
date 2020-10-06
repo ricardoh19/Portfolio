@@ -8,7 +8,11 @@
     background-color: rgba(0, 0, 0, .6);
 }
 
-
+.jumbotron{
+    background-image: url("homeimage.JPG");
+    background-size: cover;
+    
+}
 
 .container h1 p{
     font-family: 'Poppins', sans-serif;
