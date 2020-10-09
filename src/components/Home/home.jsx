@@ -10,8 +10,7 @@ class Home extends Component {
                     <div className="jumbotron">
                         <div className="container">
                             <h1 class="display-5 text-center">Ricardo Hernandez</h1>
-                            <p class="lead text-center">Hi! My name is Ricardo Hernandez. I'm a United States based developer.</p>
-                            <p class="lead text-center">I have a diverse set of skills ranging from HTML, CSS, & Javscript to Python.</p>
+                            <p class="lead text-center">Hi! My name is Ricardo Hernandez. I'm a United States based Student and aspiring developer.</p>
                         </div>
                     </div>
             </div>

@@ -1,31 +1,8 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Karla&display=swap');
 
-.homepage{
-    position: fixed;
-    width: 100%;
-    height: 100%;
-    background-image: url("homeimage.JPG");
-    background-size: cover;
-
-}
-
 .jumbotron{
-    background-image: url("homeimage.JPG");
-    background-color: #ffffff;
-    border: 1px solid black;
-    background-size: cover;
-    background-blend-mode: multiply;
-    
-}
-.jumbotron::before {
-    content: "";
-    position: absolute;
-    top: 0px;
-    right: 0px;
-    bottom: 0px;
-    left: 0px;
-    background-color: rgba(0,0,0,0.2);
+    border: .25px solid gray;
 }
 .container h1{
     font-family: 'Karla', sans-serif;
@@ -35,5 +12,5 @@
 .container p{
     font-family: 'Karla', sans-serif;
     font-weight: bold;
-    font-size: 25px;
+    font-size: 30px;
 }
