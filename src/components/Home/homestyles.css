@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Karla&display=swap');
 
 .jumbotron{
-    border: .25px solid gray;
+    border: .25px outset gray;
 }
 .container h1{
     font-family: 'Karla', sans-serif;
@@ -13,4 +13,10 @@
     font-family: 'Karla', sans-serif;
     font-weight: bold;
     font-size: 30px;
+}
+
+.row p{
+    font-family: 'Karla', sans-serif;
+    font-weight: bold;
+    font-size: 20px;
 }
