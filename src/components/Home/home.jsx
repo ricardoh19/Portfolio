@@ -8,13 +8,13 @@ class Home extends Component {
             <React.Fragment>
                     <div className="jumbotron">
                         <div className="container">
-                            <h1 class="display-5 text-center">Ricardo Hernandez</h1>
-                            <p class="lead text-center">Hi! My name is Ricardo Hernandez. I'm a United States based Student and aspiring developer.</p>
+                            <h1 class="display-5 text-center">Ricardo Hernandez</h1><hr className="hr1"/>
+                            <p class="lead text-center">Student based in United States and aspiring developer.</p>
                         </div>
                     </div>
                     <div className="container">
                     <div className="text-center m-5">
-                        <h2>About me</h2><hr className="ml-5 mr-5"/>
+                        <h2>About me</h2><hr className="hr1"/>
                     </div>
                     <div className="row">
                         <div className="col-md-6 offset-md-3">

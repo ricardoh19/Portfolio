@@ -15,6 +15,7 @@ class Navigate extends Component {
                   <a class="nav-item nav-link" id="item" href="/">Home <span class="sr-only">(current)</span></a>
                   <a class="nav-item nav-link" id="item" href="/projects">Projects</a>
                   <a class="nav-item nav-link" id="item" href="/resume">Resume</a>
+                  <a class="nav-item nav-link" id="item" href="/contact">Contact</a>
               </div>
             </div>
           </nav>

@@ -6,6 +6,7 @@ import Navigate from './components/Navbar/navigate';
 import Footer from "./components/Footer/footer"
 import "bootstrap/dist/css/bootstrap.css"
 import Resume from './components/Resume/resume';
+import Contact from './components/Contact/contact';
 
 
 class App extends Component {
@@ -17,6 +18,7 @@ class App extends Component {
         <Route exact path='/' component={Home} />
         <Route path='/projects' component={Projects} />
         <Route path="/resume" component={Resume} />
+        <Route path="/contact" component={Contact} />
         <Footer />
       </Router>
       
