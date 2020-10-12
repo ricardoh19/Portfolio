@@ -1,8 +1,21 @@
-..image{
-    background-image: url("todolist.jpg");
-    height: 1000px;
-    
-
-    background-size: cover;
-
+.project1 p{
+    font-size: 16px;
 }
+
+.github:hover{
+    filter:invert(50%);
+  }
+  
+  .demo{
+    text-decoration: none;
+    margin-left: 15px;
+    padding: 15px;
+    font-size:17px;
+    color: black;
+  }
+  .demo:hover{
+    background-color: blue;
+    color: white;
+    text-decoration: none;
+    border-radius: 7px;
+  }
