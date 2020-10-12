@@ -19,7 +19,7 @@ class Home extends Component {
                     <div className="row">
                         <div className="col-md-6 offset-md-3">
                             <p>I am currently a Computer Science student at Gardner-Webb University.</p>
-                            <p>My passion is programming where I am chasing that rush when I solve a problem. I love building things ranging from web apps or anything challenge I can tackle. </p>
+                            <p>My passion is programming where I am chasing that rush when I solve a problem. I love building things ranging from web apps or any challenge I can tackle. </p>
                         </div>
                     </div>
                     </div>
