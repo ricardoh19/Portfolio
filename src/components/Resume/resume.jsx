@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import "./resumestyles.css"
 
 class Resume extends Component {
-    state = {  }
+    
     render() { 
         return ( 
             <div className="container mt-5">
