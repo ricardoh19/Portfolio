@@ -1,4 +1,4 @@
- Portfolio built with React and bootstrap.
+ Personal Portfolio built with React, JavaScript,HTML/CSS, and bootstrap.
 _______________________________________________________________
 ## Available Scripts
 
