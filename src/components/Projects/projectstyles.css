@@ -1,28 +1,53 @@
-.project1 p{
-    font-size: 16px;
-}
-.project-image{
-  transition-duration: 0.15s;
-  transition-timing-function: linear;
-}
-.project-image:hover{
-  filter: brightness(0.50);
+.box{
+    background-color: lightskyblue;
+    height: 250px;
+    width: 700px;
+  }
+.box:hover{
+    box-shadow: 0 6px 6px rgba(0,0,0,0.23);
+  }
+.cont{
+    text-align:center;
+    max-width:1000px;
+    margin: 0 auto;
+    height:400px;
+    display: flex;
+   
+  }
+#box1{
+    margin-right: 10px;
+    border-radius: 5px;
+    text-decoration: none;
+    color:black;
+    padding: 5px;
+  }
+  
+#box1 p{
+  font-weight: normal;
+  font-size: 20px;
 }
 
+
+.github{
+    position: relative;
+    left: 0;
+    bottom: 0;
+  }
 .github:hover{
     filter:invert(50%);
   }
   
-  .demo{
+.demo{
     text-decoration: none;
-    margin-left: 15px;
-    padding: 15px;
+    padding: 8px;
     font-size:17px;
     color: black;
+    margin-left: 15px;
   }
-  .demo:hover{
+.demo:hover{
     background-color: blue;
     color: white;
     text-decoration: none;
     border-radius: 7px;
-  }
+
+}
