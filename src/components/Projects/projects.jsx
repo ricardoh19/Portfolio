@@ -11,11 +11,11 @@ class Projects extends Component {
                             <div className="cont">
                                 <div id="box1" class="box">
                                     <div id="box1" >
-                                        <h1>To-Do List</h1>
-                                        <p>The user can add or delete a task. Information of task is provided.</p>
+                                        <h1>Weather App</h1>
+                                        <p>A Web app that uses OpenWeatherMap API to fetch the current weather in any city in the world.</p>
                                         <p>Used: React, JavaScript, HTML/CSS</p>
                                     </div>
-                                    <a class="github" target="_blank" href="https://github.com/ricardoh19/react-To-do-list">
+                                    <a class="github" target="_blank" href="https://github.com/ricardoh19/Weather-App">
                                             <img src={require('../../images/GitHub.png')} width="30" height="30" alt="logo"/>
                                         </a>
                                     <a target="_blank" href="https://wizardly-noyce-328b84.netlify.app/" class="demo">Live Demo</a>
