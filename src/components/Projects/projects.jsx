@@ -18,7 +18,7 @@ class Projects extends Component {
                                     <a class="github" target="_blank" href="https://github.com/ricardoh19/Weather-App">
                                             <img src={require('../../images/GitHub.png')} width="30" height="30" alt="logo"/>
                                         </a>
-                                    <a target="_blank" href="https://wizardly-noyce-328b84.netlify.app/" class="demo">Live Demo</a>
+                                    <a target="_blank" href="https://determined-easley-5f0acc.netlify.app/" class="demo">Live Demo</a>
                                 </div>
 
                                 <div id="box1" class="box">
