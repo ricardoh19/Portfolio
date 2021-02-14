@@ -13,7 +13,7 @@ class Projects extends Component {
                                     <div id="box1" >
                                         <h1>Weather App</h1>
                                         <p>A Web app that uses OpenWeatherMap API to fetch the current weather in any city in the world.</p>
-                                        <p>Used: React, JavaScript, HTML/CSS</p>
+                                        <p>Used: JavaScript, HTML/CSS</p>
                                     </div>
                                     <a class="github" target="_blank" href="https://github.com/ricardoh19/Weather-App">
                                             <img src={require('../../images/GitHub.png')} width="30" height="30" alt="logo"/>
