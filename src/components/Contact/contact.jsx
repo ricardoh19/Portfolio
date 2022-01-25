@@ -7,7 +7,9 @@ class Contact extends Component {
         return ( 
             <div className="container">
                 <div className="text-center m-5">
-                    <h2>Contact me</h2><hr className="ml-5 mr-5"/>
+                    <h1>Contact me</h1><hr className="ml-5 mr-5"/>
+                    <h4>Feel free to contact me on social media</h4>
+                    <br />
                     <div class="logos">
                         <a target="_blank" href="https://linkedin.com/in/ricardo-hernandez-8242b474">
                             <img src={require('../../images/LI.png')} width="35" height="30" alt="logo"/>

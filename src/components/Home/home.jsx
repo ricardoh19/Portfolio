@@ -13,12 +13,9 @@ class Home extends Component {
                         </div>
                     </div>
                     <div className="container">
-                    <div className="text-center m-5">
-                        <h2>About me</h2><hr className="hr1"/>
-                    </div>
+                    <br /><br />
                     <div className="row">
-                        <div className="col-md-6 offset-md-3">
-                            <p>I am currently a Computer Science student at Gardner-Webb University.</p>
+                        <div className="col-md-4 offset-md-4">
                             <p>My passion is programming where I am chasing that rush when I solve a problem. I love building apps and projects that have a positive impact on people.</p>
                         </div>
                     </div>

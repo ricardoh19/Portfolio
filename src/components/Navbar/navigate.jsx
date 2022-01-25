@@ -14,7 +14,7 @@ class Navigate extends Component {
                 <div class="navbar-nav ml-auto" id="navbar">
                   <a class="nav-item nav-link" id="item" href="/">Home <span class="sr-only">(current)</span></a>
                   <a class="nav-item nav-link" id="item" href="/projects">Projects</a>
-                  <a class="nav-item nav-link" id="item" href="/resume">Resume</a>
+                  <a class="nav-item nav-link" id="item" href="https://drive.google.com/file/d/1mxVzFUjHRbzPyA6qbffRdTrzK_D3WvJ6/view" target="_blank">Resume</a>
                   <a class="nav-item nav-link" id="item" href="/contact">Contact</a>
               </div>
             </div>
